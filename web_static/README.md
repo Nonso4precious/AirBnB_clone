@@ -1,0 +1,1 @@
+The Web static task
